@@ -6,6 +6,26 @@ body {
 	background-color: #F8F8F8;
 	padding: 0.7em;
 }
+
+.pageheader h1 {
+	color: #141;
+	font-size: 200%;
+	background: #ffb;
+	border: 1px solid #141;
+	border-radius: 24px;
+	padding: 10px 20px;
+}
+
+.pageheader h1 a {
+	text-decoration: none;
+}
+
+.pageheader h1 a:hover {
+	background: black;
+	color: white;
+}
+
+
 p {
 	margin:1em 0;
 	line-height:1.5em;
