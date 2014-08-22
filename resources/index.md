@@ -17,5 +17,5 @@ This page contains links to useful resources.
    
  
  
- - Directions for installing Python and Turtle Graphics are [here](installing_swampy.html)
+ - Directions for installing Python and Turtle Graphics are [here](installing_swampy.html).
    
