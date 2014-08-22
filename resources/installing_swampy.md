@@ -44,7 +44,7 @@ title: Installing Python & Turtle Graphics
   4. To run **IDLE**, go to your **Applications** folder, select **Python 3.4**, and the click on **IDLE**.<br><br>
 
 - **Linux**
-  1. If you're running Linux, you can probably figure this out on your own.  If you're a total Linux _noob_, see step #2.
+  1. If you're running Linux, you can probably figure this out on your own.  If you're a total Linux _noob_, goto step #2.
   
   2. See Dr. Babcock
 
