@@ -12,7 +12,7 @@ All information about the course will be posted here.
 
 <div class="linkcolumn">
 <ul>
-  <li><a href="syllabus.html">Syllabus</a></li>
+  <li><a href="cs100_syllabus.pdf">Syllabus</a></li>
   <li><a href="schedule.html">Schedule</a></li>
   <li><a href="labs/index.html">Labs</a></li>
   <li><a href="resources.html">Resources</a></li>
