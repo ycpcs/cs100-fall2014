@@ -4,6 +4,7 @@ course_number: CS100
 title: Syllabus
 ---
 
+------------------
 ##CS 100 - CPADS I (Computer Science Practice and Design Studio)
 ##Fall 2014
 ------------------
