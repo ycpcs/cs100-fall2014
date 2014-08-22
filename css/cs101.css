@@ -1,5 +1,14 @@
 body {
+	font:13.34px helvetica,arial,freesans,clean,sans-serif;
 	margin: 0px 80px;
+	background-color: #F8F8F8;
+	color: #444;
+	line-height:1.4em;
+}
+
+p {
+	margin:1em 0;
+	line-height:1.5em;
 }
 
 .pageheader h1 {
@@ -70,11 +79,14 @@ pre {
 table {
 	border: 1px solid black;
 	border-collapse: collapse;
+	font-size:inherit;
+	font:100%;
+	margin:1em;
 }
 
 tr, th, td {
-	border: 1px solid black;
-	padding: 2px 6px;
+	border:1px solid #bbb;
+	padding: 5px 20px;
 }
 
 /* Minor tweak to get the CC image link to align nicely with the footer text */

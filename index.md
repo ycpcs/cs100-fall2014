@@ -1,6 +1,6 @@
 ---
 layout: default
-course: CS100
+course_number: CS100
 title: Home page
 ---
 
