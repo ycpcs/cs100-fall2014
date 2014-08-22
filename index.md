@@ -16,7 +16,7 @@ All information about the course will be posted here.
   <li><a href="cs100_syllabus.pdf">Syllabus</a></li>
   <li><a href="schedule.html">Schedule</a></li>
 <!--  <li><a href="labs/index.html">Labs</a></li>-->
-  <li><a href="resources.html">Resources</a></li>
+  <li><a href="resources/index.html">Resources</a></li>
 <!--  <li><a href="submitting.html">Submitting labs and assignments</a></li>-->
   <li><a href="https://cs.ycp.edu/marmoset">Marmoset (submission server)</a></li>
 </ul>
