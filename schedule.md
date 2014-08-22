@@ -6,6 +6,7 @@ title: Schedule
 
 >| **Date**       | **Topic**
 >| ---------------|:---------
+>||
 >| Wed, Aug 27    |  Syllabus & Introduction to Computer Science
 >| Fri, Aug 29    |  Motherboard Layout
 >|| 

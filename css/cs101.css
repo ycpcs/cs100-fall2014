@@ -85,8 +85,16 @@ table {
 	margin:1em;
 }
 
-tr, th, td {
+
+th {
+	border:2px solid #bbb;
+	padding: 5px 20px;
+}
+
+tr, td {
 	border:1px solid #bbb;
+	border-left: 2px solid #bbb;
+	border-right: 2px solid #bbb;
 	padding: 5px 20px;
 }
 
