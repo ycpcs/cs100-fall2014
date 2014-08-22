@@ -4,6 +4,10 @@ course_number: CS100
 title: Schedule
 ---
 
+The following schedule is subject to change.
+Additional content will be added as it becomes available throughout the semester.
+
+
 >| **Date**       | **Topic**
 >| ---------------|:---------
 >||
