@@ -7,7 +7,7 @@ title: Home page
 ##CS100: CPADS I (Computer Science Practice and Design Studio)
 ##Fall 2014
 
-This is the website for CS100, Fall 2014 at [York College of Pennsylvania](www.ycp.edu).
+This is the website for CS100, Fall 2014 at [York College of Pennsylvania](http://www.ycp.edu).
 All information about the course will be posted here.
 
 ## Links
