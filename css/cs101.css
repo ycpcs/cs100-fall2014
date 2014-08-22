@@ -12,7 +12,7 @@ p {
 }
 
 .pageheader h1 {
-	color: #141;
+/* 	color: #141; */
 	font-size: 200%;
 	background: #ffb;
 	border: 1px solid #141;
@@ -31,16 +31,16 @@ p {
 
 .content {
 	padding: 0px 20px;
-	background: white;
+/* 	background: white; */
 }
 
 .content h1 {
-	color: #141;
+/* 	color: #141; */
 	border-bottom: 2px solid #141;
 }
 
 .content h2, .content h3 {
-	color: #141;
+/* 	color: #141; */
 	border-bottom: 1px solid #141;
 }
 
