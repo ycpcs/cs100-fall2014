@@ -4,7 +4,7 @@ course_number: CS100
 title: README
 ---
 
-This is the website for CS 100, Fall 2014 at York College of
+This is the website for CS100, Fall 2014 at York College of
 Pennsylvania.
 
 Unless indicated otherwise, all materials are
