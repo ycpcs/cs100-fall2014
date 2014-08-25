@@ -73,7 +73,7 @@ Additional content will be added as it becomes available throughout the semester
 >| Mon, Dec 8     |  PyGame Project (Cont.)
 >||
 >||
->|| ** FINAL EXAM WEEK **
+>|| **FINAL EXAM WEEK**
 >| Fri, Dec 12         |  **Section 102, 10:15 am &ndash; 12:15 pm** <br> Oral Presentation During Final Exam Period
 >| Mon, Dec 15         |  **Section 101, 8:00 am &ndash; 10:00 am** <br> Oral Presentation During Final Exam Period
 >| Mon, Dec 15         |  **Section 103, 10:15 am &ndash; 12:15 pm** <br> Oral Presentation During Final Exam Period
