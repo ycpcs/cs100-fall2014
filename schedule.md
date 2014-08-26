@@ -11,7 +11,7 @@ Additional content will be added as it becomes available throughout the semester
 >| **Date**       | **Topic**                                                                                            |  **Assignments**         |
 >| ---------------|:-----------------------------------------------------------------------------------------------------|--------------------------|
 >|||
->| Wed, Aug 27    |  Syllabus & Introduction to Computer Science                                                         |                          |
+>| Wed, Aug 27    |  [Syllabus & Introduction to Computer Science](lectures/lecture0_intro.pdf)                          |                          |
 >| Fri, Aug 29    |  Motherboard Layout [(1.a)](lectures/HW_lecture1-1a_motherboard_layout.jpg) [(1.b)](lectures/HW_lecture1-1b_motherboard_layout_annotated.jpg) [(2.a)](lectures/HW_lecture1-2a_motherboard_rear_io.jpg) [(2.b)](lectures/HW_lecture1-2b_motherboard_rear_io_annotated.jpg)               |                         | 
 >|||
 >| Mon, Sep 1     |  **NO CLASS**                                                                                        |                         |
