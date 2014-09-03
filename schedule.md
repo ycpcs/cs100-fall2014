@@ -15,7 +15,7 @@ Additional content will be added as it becomes available throughout the semester
 >| Fri, Aug 29    |  Motherboard Layout [(1.a)](lectures/HW_lecture1-1a_motherboard_layout.jpg) [(1.b)](lectures/HW_lecture1-1b_motherboard_layout_annotated.jpg) [(2.a)](lectures/HW_lecture1-2a_motherboard_rear_io.jpg) [(2.b)](lectures/HW_lecture1-2b_motherboard_rear_io_annotated.jpg)               |                         | 
 >|||
 >| Mon, Sep 1     |  **NO CLASS**                                                                                        |                         |
->| Wed, Sep 3     |  Motherboard Layout (Cont.)                                                                          |                         | <!-- Hardware Activity #1 -->
+>| Wed, Sep 3     |  Motherboard Layout (Cont.)                                                                          |  [Hardware Activity #1](activities_hw/HW_Activity1.pdf)  | <!-- Hardware Activity #1 -->
 >| Fri, Sep 5     |  Processors & Memory Lecture                                                                         |                         |
 >|||
 >| Mon, Sep 8     |  Hardware Activity #2a: Processor Installation                                                       |                         | <!-- Hardware Activity #2a -->
