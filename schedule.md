@@ -18,7 +18,7 @@ Additional content will be added as it becomes available throughout the semester
 >| Wed, Sep 3     |  Motherboard Layout (Cont.)                                                                          |  [Hardware Activity #1](activities_hw/HW_Activity1.pdf)  | <!-- Hardware Activity #1 -->
 >| Fri, Sep 5     |  [Processors & Memory Lecture](lectures/HW_lecture2_processors_and_memory.pdf)                       |                         |
 >|||
->| Mon, Sep 8     |  Hardware Activity #2a: Processor Installation                                                       |                         | <!-- Hardware Activity #2a -->
+>| Mon, Sep 8     |  Hardware Activity #2a: Processor Installation                                                       |  [Hardware Activity #2a](activities_hw/HW_Activity2a.pdf)  | <!-- Hardware Activity #2a -->
 >| Wed, Sep 10    |  System BIOS                                                                                         |                         |
 >| Fri, Sep 12    |  Hardware Activity #2b: System BIOS Configuration                                                    |                         | <!-- Hardware Activity #2b -->
 >|||
