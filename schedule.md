@@ -22,7 +22,7 @@ Additional content will be added as it becomes available throughout the semester
 >| Wed, Sep 10    |  [System BIOS](lectures/HW_lecture3_BIOS.pdf)                                                        |  [Hardware Activity #2b](activities_hw/HW_Activity2b.pdf)  | <!-- Hardware Activity #2b -->
 >| Fri, Sep 12    |  Hardware Activity #2b: System BIOS Configuration                                                    |                         |
 >|||
->| Mon, Sep 15    |  Storage & Operating Systems                                                                         |                         |
+>| Mon, Sep 15    |  [Storage](lectures/HW_lecture4_storage.pdf) & [Operating Systems](lectures/HW_lecture5_operating_systems.pdf)  |                         |
 >| Wed, Sep 17    |  Hardware Activity #3: Operating System Installation                                                 |                         | <!-- Hardware Activity #3 -->
 >| Fri, Sep 19    |  Video & Graphics Cards  <br>  Hardware Activity #4: Video cards & Drivers                           |                         | <!-- Hardware Activity #4 -->
 >|||
