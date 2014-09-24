@@ -27,8 +27,8 @@ Additional content will be added as it becomes available throughout the semester
 >| Fri, Sep 19    |  [Video & Graphics Cards](lectures/HW_lecture6_video.pdf)  <br>  Hardware Activity #4: Video cards & Drivers  |  [Hardware Activity #4](activities_hw/HW_Activity4.pdf)  | <!-- Hardware Activity #4 -->
 >|||
 >| Mon, Sep 22    |  [Wired Networking: Network Devices](lectures/HW_lecture7_wired_network_devices.pdf)                 |                         |
->| Wed, Sep 24    |  [Wired Networking: Network Configuration](lectures/HW_lecture8_wired_network_configuration.pdf)  <br>  Hardware Activity #5: Network Configuration  |                         |
->| Fri, Sep 26    |  Hardware Activity #5: Network Configuration (Cont.)                                                 |                         | <!-- Hardware Activity #5 -->
+>| Wed, Sep 24    |  [Wired Networking: Network Configuration](lectures/HW_lecture8_wired_network_configuration.pdf)  <br> Hardware Activity #5: Network Configuration |  [Hardware Activity #5](activities_hw/HW_Activity5.pdf)  |  <!-- Hardware Activity #5 -->
+>| Fri, Sep 26    |  Hardware Activity #5: Network Configuration (Cont.)                                                 |                         |
 >|||
 >| Mon, Sep 29    |  Wireless Networking  <br>  Hardware Activity #6: Wireless Network Benchmarks                        |                         | <!-- Hardware Activity #6 -->
 >| Wed, Oct 1     |  Hardware Activity #6: Wireless Network Benchmarks (Cont.)                                           |                         |
