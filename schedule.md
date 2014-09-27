@@ -30,7 +30,7 @@ Additional content will be added as it becomes available throughout the semester
 >| Wed, Sep 24    |  [Wired Networking: Network Configuration](lectures/HW_lecture8_wired_network_configuration.pdf)  <br> Hardware Activity #5: Network Configuration |  [Hardware Activity #5](activities_hw/HW_Activity5.pdf)  |  <!-- Hardware Activity #5 -->
 >| Fri, Sep 26    |  Hardware Activity #5: Network Configuration (Cont.)                                                 |                         |
 >|||
->| Mon, Sep 29    |  Wireless Networking  <br>  Hardware Activity #6: Wireless Network Benchmarks                        |                         | <!-- Hardware Activity #6 -->
+>| Mon, Sep 29    |  [Wireless Networking](lectures/HW_lecture9_wireless_networks.pdf)  <br>  Hardware Activity #6: Wireless Network Benchmarks    |                         | <!-- Hardware Activity #6 -->
 >| Wed, Oct 1     |  Hardware Activity #6: Wireless Network Benchmarks (Cont.)                                           |                         |
 >| Fri, Oct 3     |  Exam #1 Review                                                                                      |                         |
 >|||
