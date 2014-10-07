@@ -35,26 +35,26 @@ Additional content will be added as it becomes available throughout the semester
 >| Fri, Oct 3     |  Exam #1 Review                                                                                      |                         |
 >|||
 >| Mon, Oct 6     |  **Exam #1**                                                                                         |                         |
->| Wed, Oct 8     |  Programming Fundamentals                                                                            |                         |
+>| Wed, Oct 8     |  [Programming Fundamentals](lectures/SW_lecture1_programming_fundamentals.pdf)                       |                         |
 >| Fri, Oct 10    |  Introduction to PyCharm  <br>  Software Activity #1: Hello Python                                   |                         | <!-- Software Activity #1 -->
 >|||
 >| Mon, Oct 13    |  **NO CLASS - Fall Break**                                                                           |                         |
->| Wed, Oct 15    |  Programming Concepts  <br>  Code Review #1                                                          |                         | <!-- Code Review #1 -->
->| Fri, Oct 17    |  Debugging  <br>  Software Activity #2: Super Turtle, Part 1                                         |                         | <!-- Software Activity #2 -->
+>| Wed, Oct 15    |  [Programming Concepts](lectures/SW_lecture2_programming_concepts.pdf)  <br>  Code Review #1         |                         | <!-- Code Review #1 -->
+>| Fri, Oct 17    |  [Debugging](lectures/SW_lecture3_program_debugging.pdf)  <br>  Software Activity #2: Super Turtle, Part 1  |                  | <!-- Software Activity #2 -->
 >|||
->| Mon, Oct 20    |  Good Programming Practices  <br>  Software Activity #2: Super Turtle, Part 2                        |                         |
->| Wed, Oct 22    |  Functions                                                                                           |                         |
+>| Mon, Oct 20    |  [Good Programming Practices](lectures/SW_lecture4_good_programming_practices.pdf)  <br>  Software Activity #2: Super Turtle, Part 2  |                         |
+>| Wed, Oct 22    |  [Functions](lectures/SW_lecture5_functions.pdf)                                                     |                         |
 >| Fri, Oct 24    |  Code Review #2  <br>  Software Activity #3: STOP, POP, TOPS, Part 1                                 |                         | <!-- Code Review #2 -->  <!-- Software Activity #3 -->
 >|||
 >| Mon, Oct 27    |  Software Activity #3: STOP, POP, TOPS, Part 2                                                       |                         |
 >| Wed, Oct 29    |  Software Activity #3: STOP, POP, TOPS, Part 2 (Cont.)                                               |                         |
->| Fri, Oct 31    |  Fixed Iteration                                                                                     |                         |
+>| Fri, Oct 31    |  [Fixed Iteration](lectures/SW_lecture6_iteration.pdf)                                               |                         |
 >|||
 >| Mon, Nov 3     |  Code Review #3  <br>  Software Activity #4: Flower, Part 1                                          |                         | <!-- Code Review #3 -->  <!-- Software Activity #4 -->
 >| Wed, Nov 5     |  Software Activity #4: Flower, Part 2                                                                |                         |
 >| Fri, Nov 7     |  Software Activity #4: Flower, Part 2 (Cont.)                                                        |                         |
 >|||
->| Mon, Nov 10    |  Decisions                                                                                           |                         |
+>| Mon, Nov 10    |  [Decisions](lectures/SW_lecture7_decisions.pdf)                                                     |                         |
 >| Wed, Nov 12    |  Code Review #4  <br>  Software Activity #5: Blizzard, Part 1                                        |                         | <!-- Code Review #4 -->  <!-- Software Activity #5 -->
 >| Fri, Nov 14    |  Software Activity #5: Blizzard, Part 2                                                              |                         |
 >|||
