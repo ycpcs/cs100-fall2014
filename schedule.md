@@ -36,26 +36,26 @@ Additional content will be added as it becomes available throughout the semester
 >|||
 >| Mon, Oct 6     |  **Exam #1**                                                                                         |                         |
 >| Wed, Oct 8     |  [Programming Fundamentals](lectures/SW_lecture1_programming_fundamentals.pdf)                       |                         |
->| Fri, Oct 10    |  Introduction to PyCharm  <br>  Programming Activity #1: Hello Python                                   |  [Programming Activity #1](activities_sw/Prog_Activity1.pdf)  | <!-- Programming Activity #1 -->
+>| Fri, Oct 10    |  Introduction to PyCharm  <br>  Programming Activity #1: Hello Python                                |  [Programming Activity #1](activities_sw/Prog_Activity1.pdf)  | <!-- Programming Activity #1 -->
 >|||
 >| Mon, Oct 13    |  **NO CLASS - Fall Break**                                                                           |                         |
->| Wed, Oct 15    |  [Programming Concepts](lectures/SW_lecture2_programming_concepts.pdf)  <br>  Code Review #1         |                         | <!-- Code Review #1 -->
+>| Wed, Oct 15    |  [Programming Concepts](lectures/SW_lecture2_programming_concepts.pdf)  <br>  Reading Activity #1    |  [Reading Activity #1](activities_sw/Reading_Activity1.pdf)  | <!-- Reading Activity #1 -->
 >| Fri, Oct 17    |  [Debugging](lectures/SW_lecture3_program_debugging.pdf)  <br>  Programming Activity #2: Super Turtle, Part 1  |                  | <!-- Programming Activity #2 -->
 >|||
 >| Mon, Oct 20    |  [Good Programming Practices](lectures/SW_lecture4_good_programming_practices.pdf)  <br>  Programming Activity #2: Super Turtle, Part 2  |                         |
 >| Wed, Oct 22    |  [Functions](lectures/SW_lecture5_functions.pdf)                                                     |                         |
->| Fri, Oct 24    |  Code Review #2  <br>  Programming Activity #3: STOP, POP, TOPS, Part 1                              |                         | <!-- Code Review #2 -->  <!-- Programming Activity #3 -->
+>| Fri, Oct 24    |  Reading Activity #2  <br>  Programming Activity #3: STOP, POP, TOPS, Part 1                         |                         | <!-- Reading Activity #2 -->  <!-- Programming Activity #3 -->
 >|||
 >| Mon, Oct 27    |  Programming Activity #3: STOP, POP, TOPS, Part 2                                                    |                         |
 >| Wed, Oct 29    |  Programming Activity #3: STOP, POP, TOPS, Part 2 (Cont.)                                            |                         |
 >| Fri, Oct 31    |  [Fixed Iteration](lectures/SW_lecture6_iteration.pdf)                                               |                         |
 >|||
->| Mon, Nov 3     |  Code Review #3  <br>  Programming Activity #4: Flower, Part 1                                       |                         | <!-- Code Review #3 -->  <!-- Programming Activity #4 -->
+>| Mon, Nov 3     |  Reading Activity #3  <br>  Programming Activity #4: Flower, Part 1                                  |                         | <!-- Reading Activity #3 -->  <!-- Programming Activity #4 -->
 >| Wed, Nov 5     |  Programming Activity #4: Flower, Part 2                                                             |                         |
 >| Fri, Nov 7     |  Programming Activity #4: Flower, Part 2 (Cont.)                                                     |                         |
 >|||
 >| Mon, Nov 10    |  [Decisions](lectures/SW_lecture7_decisions.pdf)                                                     |                         |
->| Wed, Nov 12    |  Code Review #4  <br>  Programming Activity #5: Blizzard, Part 1                                     |                         | <!-- Code Review #4 -->  <!-- Programming Activity #5 -->
+>| Wed, Nov 12    |  Reading Activity #4  <br>  Programming Activity #5: Blizzard, Part 1                                |                         | <!-- Reading Activity #4 -->  <!-- Programming Activity #5 -->
 >| Fri, Nov 14    |  Programming Activity #5: Blizzard, Part 2                                                           |                         |
 >|||
 >| Mon, Nov 17    |  Programming Activity #5: Blizzard, Part 2 (Cont.)                                                   |                         |
