@@ -11,9 +11,9 @@ title: Installing Python & Turtle Graphics
   4. Unzip the swampy zip file that you downloaded in the previous step.  You should now have directory called _swampy-2.1.5_ that contains all of the swampy files.<br>  
   5. Copy all the files from the _swampy-2.1.5_ directory (**NOT** the directory itself) to the <br>
   **C:/Python34/Lib/site-packages/** directory.<br>
-  You may need to create this directory.<br>  
-  6. To run **IDLE**, go to your **Start** menu, and select <br>
-  **All Programs &rarr; Python 3.4 &rarr; IDLE (Python GUI)**<br><br>
+  You may need to create this directory.<br>
+  <br>
+  6. Head over to the [PyCharm website](https://www.jetbrains.com/pycharm/) and follow the directions to install PyCharm on our local machine.<br><br>
 
 
 - **Windows 8 / Windows 8.1**
@@ -29,9 +29,10 @@ title: Installing Python & Turtle Graphics
   **/Macintosh_HD/Library/Python/3.4/site-packages/** directory.<br>  
   You may need to create this directory.<br>
   <br>
-  Note: If you cannot see the **/Macintosh_HD/Library/** directory, you may need to access it from the Finder menu.  Click on **Finder** in your Dock, select **Go** from the Menu, choose **Go to Folder...**, and type **/Library** in the box that appears.  From here, you should be able to see the **Python** directory and proceed as directed above.<br>  
-  6. To run **IDLE**, go to your **Applications** folder, select **Python 3.4**, and the click on **IDLE**.<br><br>
-
+  Note: If you cannot see the **/Macintosh_HD/Library/** directory, you may need to access it from the Finder menu.  Click on **Finder** in your Dock, select **Go** from the Menu, choose **Go to Folder...**, and type **/Library** in the box that appears.  From here, you should be able to see the **Python** directory and proceed as directed above.<br>
+  <br>
+  6. Head over to the [PyCharm website](https://www.jetbrains.com/pycharm/) and follow the directions to install PyCharm on our local machine.<br><br>
+  
 - **Linux**
   1. If you're running Linux, you can probably figure this out on your own.  If you're a total Linux _noob_, goto step #2.<br>  
   2. See Dr. Babcock
