@@ -40,7 +40,7 @@ Additional content will be added as it becomes available throughout the semester
 >|||
 >| Mon, Oct 13    |  **NO CLASS - Fall Break**                                                                           |                         |
 >| Wed, Oct 15    |  [Programming Concepts](lectures/SW_lecture2_programming_concepts.pdf)  <br>  Reading Activity #1    |  [Reading Activity #1](activities_sw/Reading_Activity1.pdf)  | <!-- Reading Activity #1 -->
->| Fri, Oct 17    |  [Debugging](lectures/SW_lecture3_program_debugging.pdf)  <br>  Programming Activity #2: Super Turtle, Part 1  |                  | <!-- Programming Activity #2 -->
+>| Fri, Oct 17    |  [Debugging](lectures/SW_lecture3_program_debugging.pdf)  <br>  Programming Activity #2: Super Turtle, Part 1  | [Programming Activity #2](activities_sw/Prog_Activity2.pdf) | <!-- Programming Activity #2 -->
 >|||
 >| Mon, Oct 20    |  [Good Programming Practices](lectures/SW_lecture4_good_programming_practices.pdf)  <br>  Programming Activity #2: Super Turtle, Part 2  |                         |
 >| Wed, Oct 22    |  [Functions](lectures/SW_lecture5_functions.pdf)                                                     |                         |
