@@ -44,7 +44,7 @@ Additional content will be added as it becomes available throughout the semester
 >|||
 >| Mon, Oct 20    |  [Good Programming Practices](lectures/SW_lecture4_good_programming_practices.pdf)  <br>  Programming Activity #2: Super Turtle, Part 2  |                         |
 >| Wed, Oct 22    |  [Functions](lectures/SW_lecture5_functions.pdf)                                                     |                         |
->| Fri, Oct 24    |  Reading Activity #2  <br>  Programming Activity #3: STOP, POP, TOPS, Part 1                         |                         | <!-- Reading Activity #2 -->  <!-- Programming Activity #3 -->
+>| Fri, Oct 24    |  Reading Activity #2  <br>  Programming Activity #3: STOP, POP, TOPS, Part 1                         |  [Reading Activity #2](activities_sw/Reading_Activity2.pdf) <br> [Programming Activity #3](activities_sw/Prog_Activity3.pdf) | <!-- Reading Activity #2 -->  <!-- Programming Activity #3 -->
 >|||
 >| Mon, Oct 27    |  Programming Activity #3: STOP, POP, TOPS, Part 2                                                    |                         |
 >| Wed, Oct 29    |  Programming Activity #3: STOP, POP, TOPS, Part 2 (Cont.)                                            |                         |
