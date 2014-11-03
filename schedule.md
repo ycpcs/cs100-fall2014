@@ -50,7 +50,7 @@ Additional content will be added as it becomes available throughout the semester
 >| Wed, Oct 29    |  Programming Activity #3: STOP, POP, TOPS, Part 2 (Cont.)                                            |                         |
 >| Fri, Oct 31    |  [Fixed Iteration](lectures/SW_lecture6_iteration.pdf)                                               |                         |
 >|||
->| Mon, Nov 3     |  Reading Activity #3  <br>  Programming Activity #4: Flower, Part 1                                  |                         | <!-- Reading Activity #3 -->  <!-- Programming Activity #4 -->
+>| Mon, Nov 3     |  Reading Activity #3  <br>  Programming Activity #4: Flower, Part 1                                  |  [Reading Activity #3](activities_sw/Reading_Activity3.pdf) <br> [Programming Activity #4](activities_sw/Prog_Activity4.pdf)                       | <!-- Reading Activity #3 -->  <!-- Programming Activity #4 -->
 >| Wed, Nov 5     |  Programming Activity #4: Flower, Part 2                                                             |                         |
 >| Fri, Nov 7     |  Programming Activity #4: Flower, Part 2 (Cont.)                                                     |                         |
 >|||
