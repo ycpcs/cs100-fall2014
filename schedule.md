@@ -62,13 +62,13 @@ Additional content will be added as it becomes available throughout the semester
 >| Wed, Nov 19    |  Programming Activity #5: Blizzard, Part 2 (Cont.)                                                   |                         |
 >| Fri, Nov 21    |  Exam #2 Review                                                                                      |                         |
 >|||
->| Mon, Nov 24    |  **Exam #2**                                                                                         |                         |
+>| Mon, Nov 24    |                                                                                            |                         |
 >| Wed, Nov 26    |  **NO CLASS - Thanksgiving Break**                                                                   |                         |
 >| Fri, Nov 28    |  **NO CLASS - Thanksgiving Break**                                                                   |                         |
 >|||
 >| Mon, Dec 1     |  Review for Exam #2                                                                                  |                         |
 >| Wed, Dec 3     |  Finalize and submit remaining assignments                                                           |                         |
->| Mon, Oct 6     |  **Exam #2 - Programming Exam**                                                                      |                         |
+>| Mon, Dec 6     |  **Exam #2 - Programming Exam**                                                                      |                         |
 >|||
 >| Mon, Dec 8     |                                                                                                      |                         |
 >|||
