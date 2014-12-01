@@ -71,15 +71,16 @@ Additional content will be added as it becomes available throughout the semester
 >| Mon, Oct 6     |  **Exam #2 - Programming Exam**                                                                      |                         |
 >|||
 >| Mon, Dec 8     |                                                                                                      |                         |
+>|||
+
+
 <!--
 >| Mon, Dec 1     |  Intro to PyGame <br> PyGame Project                                                                 |                         |
 >| Wed, Dec 3     |  PyGame Project (Cont.)                                                                              |                         |
 >| Fri, Dec 5     |  PyGame Project (Cont.)                                                                              |                         |
 >|||
 >| Mon, Dec 8     |  PyGame Project (Cont.)                                                                              |                         |
--->
 >|||
-<!--
 >|||
 >|| **FINAL EXAM WEEK** |
 >| Fri, Dec 12         |  **Section 102, 10:15 am &ndash; 12:15 pm** <br> Oral Presentation During Final Exam Period     |                         |
