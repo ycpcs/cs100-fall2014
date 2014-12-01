@@ -34,7 +34,7 @@ Additional content will be added as it becomes available throughout the semester
 >| Wed, Oct 1     |  Hardware Activity #6: Wireless Network Benchmarks (Cont.)                                           |                         |
 >| Fri, Oct 3     |  Exam #1 Review                                                                                      |                         |
 >|||
->| Mon, Oct 6     |  **Exam #1**                                                                                         |                         |
+>| Mon, Oct 6     |  **Exam #1 - Hardware Exam**                                                                         |                         |
 >| Wed, Oct 8     |  [Programming Fundamentals](lectures/SW_lecture1_programming_fundamentals.pdf)                       |                         |
 >| Fri, Oct 10    |  Introduction to PyCharm  <br>  Programming Activity #1: Hello Python                                |  [Programming Activity #1](activities_sw/Prog_Activity1.pdf)  | <!-- Programming Activity #1 -->
 >|||
@@ -66,18 +66,26 @@ Additional content will be added as it becomes available throughout the semester
 >| Wed, Nov 26    |  **NO CLASS - Thanksgiving Break**                                                                   |                         |
 >| Fri, Nov 28    |  **NO CLASS - Thanksgiving Break**                                                                   |                         |
 >|||
+>| Mon, Dec 1     |  Review for Exam #2                                                                                  |                         |
+>| Wed, Dec 3     |  Finalize and submit remaining assignments                                                           |                         |
+>| Mon, Oct 6     |  **Exam #2 - Programming Exam**                                                                      |                         |
+>|||
+>| Mon, Dec 8     |                                                                                                      |                         |
+<!--
 >| Mon, Dec 1     |  Intro to PyGame <br> PyGame Project                                                                 |                         |
 >| Wed, Dec 3     |  PyGame Project (Cont.)                                                                              |                         |
 >| Fri, Dec 5     |  PyGame Project (Cont.)                                                                              |                         |
 >|||
 >| Mon, Dec 8     |  PyGame Project (Cont.)                                                                              |                         |
+-->
 >|||
+<!--
 >|||
 >|| **FINAL EXAM WEEK** |
 >| Fri, Dec 12         |  **Section 102, 10:15 am &ndash; 12:15 pm** <br> Oral Presentation During Final Exam Period     |                         |
 >| Mon, Dec 15         |  **Section 101, 8:00 am &ndash; 10:00 am** <br> Oral Presentation During Final Exam Period      |                         |
 >| Mon, Dec 15         |  **Section 103, 10:15 am &ndash; 12:15 pm** <br> Oral Presentation During Final Exam Period     |                         |
-
+-->
 
 <!-- vim:set wrap: ­-->
 <!-- vim:set linebreak: -->
