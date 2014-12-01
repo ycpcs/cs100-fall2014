@@ -68,7 +68,7 @@ Additional content will be added as it becomes available throughout the semester
 >|||
 >| Mon, Dec 1     |  Review for Exam #2                                                                                  |                         |
 >| Wed, Dec 3     |  Finalize and submit remaining assignments                                                           |                         |
->| Mon, Dec 6     |  **Exam #2 - Programming Exam**                                                                      |                         |
+>| Fri, Dec 6     |  **Exam #2 - Programming Exam**                                                                      |                         |
 >|||
 >| Mon, Dec 8     |                                                                                                      |                         |
 >|||
