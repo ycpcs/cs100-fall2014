@@ -71,7 +71,6 @@ Additional content will be added as it becomes available throughout the semester
 >| Fri, Dec 5     |  **Exam #2 - Programming Exam**                                                                      |                         |
 >|||
 >| Mon, Dec 8     |                                                                                                      |                         |
->|||
 
 
 <!--
